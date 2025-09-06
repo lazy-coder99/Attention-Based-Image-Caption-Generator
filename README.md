@@ -20,7 +20,7 @@
 
 ## Demo
 
-![Link:](https://sunnyimagecaptioninggenerator.streamlit.app/)
+Live Link : https://sunnyimagecaptioninggenerator.streamlit.app
 
 ![Caption Generator Demo](resource/demo.gif)
 
